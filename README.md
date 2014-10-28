@@ -1,4 +1,4 @@
 Dynomite-Git-Example
 ====================
 
-A throwaway repo for a Git tutorial
+Haha I changed it!
